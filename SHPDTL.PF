@@ -1,0 +1,15 @@
+      A*-------------------------------------------------------------------------  
+      A* Programmer   : XYZ Solutions Inc.                            
+      A* Creation Date: January 15, 2020                                           
+      A* Description  : Shipping Detail                               
+      A*-------------------------------------------------------------------------  
+      A          R SHPDTLR                                                       
+      A*-------------------------------------------------------------------------  
+      A            SHPID          5  0  	  
+      A            SHPORD         5  0    
+      A            SHPDAT	      8  0
+	  A            SHPPCK         3  0 
+	  A            SHPQTY         5  0
+	  A            SHPSTS         2
+	  A            SHPDEL	      8  0
+      A          K SHPID	  

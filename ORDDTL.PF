@@ -1,0 +1,13 @@
+      A*-------------------------------------------------------------------------  
+      A* Programmer   : XYZ Solutions Inc.                            
+      A* Creation Date: January 15, 2020                                           
+      A* Description  : Order Detail File                               
+      A*-------------------------------------------------------------------------  
+      A          R ORDDTLR                                                       
+      A*-------------------------------------------------------------------------  
+      A            ORDDID         5  0  	  
+      A            ORDITM         5  0                                             
+      A            ORDQTY         3  0     
+      A            ORDPRC        11  2	  
+      A            ORDDAT         8  0  
+      A          K ORDDID	  

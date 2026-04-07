@@ -1,0 +1,12 @@
+      A*-------------------------------------------------------------------------  
+      A* Programmer   : XYZ Solutions Inc.                            
+      A* Creation Date: January 15, 2020                                           
+      A* Description  : Shipping Header                               
+      A*-------------------------------------------------------------------------  
+      A          R SHPHDRR                                                       
+      A*-------------------------------------------------------------------------  
+      A            SHPID          5  0  	  
+      A            SHPORD         5  0                                             
+      A            SHPCUS         5  0     
+      A            SHPADR        50   
+      A          K SHPID	  
