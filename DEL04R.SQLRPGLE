@@ -1,6 +1,6 @@
 **FREE
- Dcl-s wkState          Char(2)      Inz('AP');
- Dcl-s Str1             Varchar(500) Inz;
+ Dcl-s wkState              Char(2)      Inz('AP');
+ Dcl-s Str1                 Varchar(500) Inz;
  Dcl-s DB2_MESSAGEID        Char(10) ;
  Dcl-s DB2_MESSAGEID1       Varchar(7) ;
  Dcl-s DB2_MESSAGEID2       Like(DB2_MessageId1) ;
