@@ -1,4 +1,6 @@
 **FREE
+ // Program to demonstrate the use of the %Concatarr and %list built-in function to concatenate an 
+ // array of values into a single string with a specified separator.
  Dcl-Ds Data Extname('WORKFILE') qualified dim(*auto : 9999) ;
  End-Ds;
  Dcl-s  String    Varchar(2048) ;
